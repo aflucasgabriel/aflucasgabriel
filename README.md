@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem-vindo(a)!👋
 
 
 - :technologist: Olá, meu nome é Lucas Gabriel, tenho 20 anos e atualmente estou estudando Bacharelado em Sistemas de Informação na 
