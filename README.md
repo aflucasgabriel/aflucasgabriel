@@ -5,7 +5,7 @@
 - 👨‍🏭 Atualmente trabalho fora da área, mas estou em busca de oportunidades.
 - 💻 Estudando C e Java.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflucasgabriel&show_icons=true&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflucasgabriel&hide_progress=false&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflucasgabriel&show_icons=true&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflucasgabriel&hide_progress=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
